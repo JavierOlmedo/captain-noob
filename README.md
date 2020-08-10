@@ -24,7 +24,7 @@ I'm Roshan Cheriyan, An Independent Developer and Security researcher on Bugcrow
 	- C++
 	- PHP
 	- SQL
-	- Dart
+	- Dart etc...
 
 
 - **Web Development**
@@ -45,11 +45,11 @@ I'm Roshan Cheriyan, An Independent Developer and Security researcher on Bugcrow
 
 #
 
-<center>
-	<img   align="center" src="https://github-readme-stats.vercel.app/api?username=captain-noob&show_icons=true" /> 
-</center>
+<p align="center" > <img   align="center" src="https://github-readme-stats.vercel.app/api?username=captain-noob&show_icons=true" /> <p/>
 
 
+</br>
+</br>
 </br>
 
 > *The quieter you become,  The more you are able to hear*
