@@ -14,8 +14,8 @@ I'm Roshan Cheriyan, An Independent Developer and Security researcher on Bugcrow
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-- **Penetration Testing**
-	-  Web Application ❤️
+- **Penetration Testing**  ❤️
+	-  Web Application
 	-  Reversing 
 	- Linux /Windows
 
@@ -43,15 +43,18 @@ I'm Roshan Cheriyan, An Independent Developer and Security researcher on Bugcrow
 
 
 
+#
+
+<div height="200px">
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=captain-noob&show_icons=true" /> 
+	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captain-noob" />
+</div>
+
+
 
 > *The quieter you become,  The more you are able to hear*
 
 #
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=captain-noob&show_icons=true" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captain-noob" />
-
 
 
 <div align="bottom">
@@ -60,20 +63,21 @@ I'm Roshan Cheriyan, An Independent Developer and Security researcher on Bugcrow
 	</div>
 	<p align="center">
 	 <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
-	  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+	  <img align="center" alt="Roshan's LinkedIn" width="30px" src="https://www.hackthebox.eu/images/logo600.png" /> &nbsp; &nbsp;
 	 </a>
 	 <a href="https://www.instagram.com/cyber_freak_21/" target="blank">
-	  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+	  <img align="center" alt="Roshan's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
 	 </a>
 	 <a href="https://twitter.com/pramod2107" target="blank">
-	  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+	  <img align="center" alt="Roshan's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
 	 </a>
 	 <a href="https://medium.com/@pramodrana2107" target="blank">
-	  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+	  <img align="center" alt="Roshan's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
 	 </a> 
 </div>
   <br/>
   <br/>
 
 Visit my profile and give a  ⭐️ 
+<br/>
 ⭐️ From [Roshan Cheriyan](https://github.com/captain-noob)
