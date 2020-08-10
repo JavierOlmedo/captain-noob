@@ -50,7 +50,7 @@ I'm Roshan Cheriyan, An Independent Developer and Security researcher on Bugcrow
 
 
 <div align="center">
- 	<img align="right" src="https://github-readme-stats.vercel.app/api?username=captain-noob&show_icons=true" /> 
+ 	<img align="left" src="https://github-readme-stats.vercel.app/api?username=captain-noob&show_icons=true" /> 
 	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captain-noob" />
 </div>
 
