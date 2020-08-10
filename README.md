@@ -11,7 +11,9 @@ I'm Roshan Cheriyan, An Independent Developer and Security researcher on Bugcrow
 - 🌱 I’m currently learning Reverse Engineering
 
 ## Ask me about :computer: 
+
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
 - **Penetration Testing**
 	-  Web Application ❤️
 	-  Reversing 
