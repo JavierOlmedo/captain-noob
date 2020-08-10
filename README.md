@@ -11,6 +11,7 @@ I'm Roshan Cheriyan, An Independent Developer and Security researcher on Bugcrow
 - 🌱 I’m currently learning Reverse Engineering
 
 ## Ask me about :computer: 
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 - **Penetration Testing**
 	-  Web Application ❤️
 	-  Reversing 
@@ -23,7 +24,6 @@ I'm Roshan Cheriyan, An Independent Developer and Security researcher on Bugcrow
 	- SQL
 	- Dart
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
@@ -45,11 +45,13 @@ I'm Roshan Cheriyan, An Independent Developer and Security researcher on Bugcrow
 > *The quieter you become,  The more you are able to hear*
 
 #
-<center>
-![enter image description here](https://github-readme-stats.vercel.app/api?username=captain-noob&show_icons=true)
--
-![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=captain-noob) 
-</center>
+
+
+<div align="center">
+ 	<img align="right" src="https://github-readme-stats.vercel.app/api?username=captain-noob&show_icons=true" /> 
+	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captain-noob" />
+</div>
+
 
 
 <div align="center">
