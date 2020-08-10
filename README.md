@@ -45,19 +45,19 @@ I'm Roshan Cheriyan, An Independent Developer and Security researcher on Bugcrow
 
 #
 
-<div height="200px">
-	<img align="left" src="https://github-readme-stats.vercel.app/api?username=captain-noob&show_icons=true" /> 
-	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captain-noob" />
-</div>
+<center>
+	<img   align="center" src="https://github-readme-stats.vercel.app/api?username=captain-noob&show_icons=true" /> 
+</center>
 
 
+</br>
 
 > *The quieter you become,  The more you are able to hear*
 
 #
 
 
-<div align="bottom">
+<div align="bottom" width="100%">
 	<div align="center">
 	  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 	</div>
