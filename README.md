@@ -62,18 +62,13 @@ I'm Roshan Cheriyan, An Independent Developer and Security researcher on Bugcrow
 	  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 	</div>
 	<p align="center">
-	 <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
-	  <img align="center" alt="Roshan's LinkedIn" width="30px" src="https://www.hackthebox.eu/images/logo600.png" /> &nbsp; &nbsp;
-	 </a>
-	 <a href="https://www.instagram.com/cyber_freak_21/" target="blank">
+	  <a href="https://www.instagram.com/__captain__noob/" target="blank">
 	  <img align="center" alt="Roshan's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
 	 </a>
-	 <a href="https://twitter.com/pramod2107" target="blank">
+	 <a href="https://twitter.com/captain__noob" target="blank">
 	  <img align="center" alt="Roshan's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
 	 </a>
-	 <a href="https://medium.com/@pramodrana2107" target="blank">
-	  <img align="center" alt="Roshan's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
-	 </a> 
+	 <p/>
 </div>
   <br/>
   <br/>
