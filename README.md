@@ -8,7 +8,7 @@ I'm Roshan Cheriyan, An Independent Developer and Security researcher on Bugcrow
 🏄‍♂️. 
 
 - 💻  Hacker / Penetration testing 
-- 🔭 I’m currently working on Mobile Apps Development
+- 🔭 I’m currently working on Mobile Apps Development and Security
 - 🌱 I’m currently learning Reverse Engineering
 
 ## Ask me about :computer: 
