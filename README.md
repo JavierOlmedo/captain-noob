@@ -58,21 +58,21 @@ I'm Roshan Cheriyan, An Independent Developer and Security researcher on Bugcrow
 #
 
 
-<div align="bottom" width="100%">
-	<div align="center">
-	  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
-	</div>
-	<p align="center">
-	  <li><a href="https://www.facebook.com/roshan.cheriyan.9"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                                        <li><a href="https://twitter.com/captain__noob"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                                        <li><a href="https://github.com/captain-noob"><i class="fa fa-github" aria-hidden="true"></i></a></li>
-                                                        <!-- <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
-                                                        <li><a href="https://www.instagram.com/__captain__noob/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>> &nbsp; &nbsp;
-	 </a>
-	 <p/>
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
-  <br/>
-  <br/>
+<p align="center">
+ <a href="https://www.linkedin.com/in/roshan-cheriyan-522b72188/" target="blank">
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://www.instagram.com/__captain__noob/" target="blank">
+  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://twitter.com/captain__noob" target="blank">
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"> &nbsp; &nbsp;
+ </a>
+	
+ <br>
 
 Visit my profile and give a  ⭐️ 
 <br/>
