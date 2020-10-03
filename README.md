@@ -71,6 +71,9 @@ I'm Roshan Cheriyan, An Independent Developer and Security researcher on Bugcrow
  <a href="https://twitter.com/captain__noob" target="blank">
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"> &nbsp; &nbsp;
  </a>
+	<a href="https://medium.com/@roshancp" target="blank">
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg"> &nbsp; &nbsp;
+ </a>
 	
  <br>
 
