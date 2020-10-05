@@ -4,7 +4,7 @@
 </br>
 
 ## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-I'm Roshan Cheriyan, An Independent Developer and Security researcher on Bugcrowd , Hackerone ,Synack , Integriti and a Freelancer
+I'm Roshan Cheriyan, An Independent Developer and Security researcher on Bugcrowd , Hackerone ,Synack , Integriti .
 🏄‍♂️. 
 
 - 💻  Hacker / Penetration testing 
